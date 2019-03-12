@@ -1,12 +1,13 @@
-# akash
+
 
 <html>
 <head>
 
-<title>title</title>
 </head>
-<h1>Page to submit the user data  into the data base </h1>
+
 <body>
+ <h1>Page to submit the user data  into the data base </h1>
+ <form>
 
  NAME:<input type="text" name="username">
  <br/>
@@ -14,7 +15,7 @@
  <br/>
         <input type="submit" value="Insert">
 
+<iframe src="https://www.abes.ac.in/"  height="500px"  width="600px" ></iframe>
 </form>
-<iframe="https://www.abes.ac.in/"  height="500px"  width="600px" ></iframe>
 </body>
 </html>
